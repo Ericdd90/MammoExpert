@@ -1,0 +1,6512 @@
+[
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 0 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    },
+    {
+        "query": "Is the lesion benign or malignant?1=Malignant, 0=Benign<image>",
+        "images": [
+            "/path/to/image"
+        ],
+        "response": "<answer> 1 </answer>"
+    }
+]
